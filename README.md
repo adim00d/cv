@@ -2,7 +2,7 @@
 <html lang="en">
  <head>
    <meta charset="UTF-8">
-   <title>Software Engineer Anthony Dimemmo</title>
+   <title>Software Engineer</title>
  </head>
  <body>
     <table cellspacing="20">
